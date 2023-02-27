@@ -1,0 +1,22 @@
+.navMain {
+    width: 80vw;
+    display: flex;
+    justify-content: space-between;
+    height: 10vh;
+}
+
+a{
+    font-family: 'Roboto';
+    font-size: 14px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    margin: 20px;
+    cursor: pointer;
+    transition: all 1s ease-out;
+    padding: 1px 5px;
+}
+a:hover {
+    background-color: black;
+    color: azure;
+}
+

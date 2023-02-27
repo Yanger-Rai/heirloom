@@ -1,0 +1,48 @@
+.container{
+  height: 15vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1{
+    font-size: 32px;
+    font-family: 'Bodoni Moda', serif;
+    margin: 0;
+    margin-top: 5px;
+    letter-spacing: 1px;
+    text-shadow:  2px 4px 4px #d8d8d8;  
+}
+  
+h2{
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    margin: 0;
+    margin-top: 8px;
+}
+  
+.logoSign{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+  
+.dot{
+    width: 3px;
+    height: 3px;
+    background-color: black;
+    margin: 1px;
+    border-radius: 50%;   
+}
+  
+.bead{
+    width:17px;
+    height: 6px;
+    background-color: black;
+    margin: 1px;
+    border-radius: 50%;
+}
+
